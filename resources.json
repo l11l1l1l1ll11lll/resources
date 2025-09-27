@@ -1,1 +1,6 @@
-TEST
+{
+  "hwids": [
+    "6709bbdbcb3c5f38beeeeebed9da8caf61a925a76368b53e2012c8da6af20e87",
+    "26e28a9a00636cc815e1142fdbc0223b82962ab4ddbe5be0b9961ac7a408c975"
+  ]
+}
