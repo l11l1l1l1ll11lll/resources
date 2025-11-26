@@ -2,7 +2,8 @@
   "users": [
     "levent": [
       "hwid": "",
-      "ip": ""
+      "ip": "",
+      "connection": "",
       ]
   ]
 }
