@@ -1,9 +1,8 @@
 {
   "users": [
-    {
+    "levent": [
       "hwid": "",
-      "ip": "",
-      "hostname": ""
-    }
+      "ip": ""
+      ]
   ]
 }
