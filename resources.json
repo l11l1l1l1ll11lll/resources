@@ -1,9 +1,7 @@
 {
-  "users": [
-    "levent": [
-      "hwid": "",
-      "ip": "",
-      "connection": "",
-      ]
+  "hwids": [
+    "6709bbdbcb3c5f38beeeeebed9da8caf61a925a76368b53e2012c8da6af20e87",
+    "b9648abe33c0c51870231d93ba2a2a6b0750d57f7f1a4cf87ed447a711205169",
+    "26e28a9a00636cc815e1142fdbc0223b82962ab4ddbe5be0b9961ac7a408c975"
   ]
 }
